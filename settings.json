@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "ISLAMSHADY.aternos.me",
+    "port": 33980,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 1000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "FUCK NIGGERS",
+        "FUCK NIGGERS",
+        "FUCK NIGGERS"
       ]
     },
     "chat-log": true,
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": true,
-    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "webhookUrl": "https://discord.com/api/webhooks/1485497132084494456/m1pPuOErWsxuQfEO7r7TXRKb7s--lyQ7fwJP-2qWw7t_SnQlF8m67LeI4-C5yikUnAb7",
     "events": {
       "connect": true,
       "disconnect": true,
